@@ -1,0 +1,132 @@
+# Bigbasket Brand Store Creative Guidelines
+
+## 1. NPC (New Product Carousel) Guidelines
+**Purpose:** Used to highlight categories, brand-related products, sponsored brands, and seasonal festivities.
+**General Structure:** Horizontal carousel with a fixed "Offer callout" at the top to maintain uniformity while scrolling.
+
+### Template Types & Dimensions
+*Note: All sizes mentioned in anatomy diagrams are reference sizes. Final designs must be uploaded at **3x** scale.*
+
+#### **Medium Template**
+*   **Total Dimensions:** 360px (W) x 480px (H)
+*   **Corner Radius:** 12px
+*   **Image Placeholder:** 330px x 330px (Centered horizontally)
+    *   *Effect:* Drop Shadow (Blur: 16, Color: #000000, Opacity: 40%)
+*   **Logo Area:** 360px (W) x 102px (H)
+    *   *Style:* Bottom aligned, background opacity 50%, background blur 40.
+    *   *Stroke:* Linear gradient (White 0% to 100% to 0%).
+*   **Offer Callout (Fixed Top):** 51px (W) x 252px (H)
+    *   *Background:* Black (#000000), Opacity 40%.
+*   **Typography:**
+    *   *Title:* Font: Rubik Medium | Color: #2B2B2B or #FFFFFF | Size: 10px (Line height 133%).
+    *   *Offer Text:* Font: Rubik Medium | Color: #FFFFFF | Size: 9px (Line height 133%).
+
+#### **Small Template**
+*   **Total Dimensions:** 288px (W) x 384px (H)
+*   **Corner Radius:** 8px
+*   **Image Placeholder:** 285px x 285px
+    *   *Effect:* Drop Shadow (Blur: 16, Color: #000000, Opacity: 40%)
+*   **Logo Area:** 360px (W) x 90px (H)
+*   **Offer Callout:** 51px (W) x 249px (H)
+
+### Design Rules
+*   **Background:** Depends on Brand Color.
+*   **Variations:** Templates can exist **With** or **Without** the "Offer Callout."
+*   **Elements Checklist:**
+    *   Offer Callout (Optional)
+    *   Title (Optional/Mandatory based on layout)
+    *   Product Image (Mandatory)
+    *   Logo (Mandatory)
+
+---
+
+## 2. Banner ATC (Add To Cart) Widget
+**Purpose:** Highlight brands, support static images, and show a range of products from a particular brand via a horizontal carousel.
+
+### Anatomy & Dimensions
+*   **Full Widget Size:** 1080px (W) x 1126px (H)
+*   **Header Banner Area:** 1080px (W) x 312px (H)
+*   **Logo Specification:**
+    *   Position: Fixed on the left.
+    *   Dimensions: 48px (W) x 36px (H) (Ratio 4:3).
+
+### Creative Guidelines
+1.  **Product Image Alignment:** Always align product images to the **right**.
+2.  **Background:** Background imagery can extend full width behind the product.
+3.  **Headings:**
+    *   Product heading will take **2 lines** if longer.
+    *   "View more" link placed below the SKUs.
+4.  **Spacing:**
+    *   Padding of **12px** is standard around the product cards within the widget.
+
+---
+
+## 3. Grid (Brand Store) Guidelines
+**Purpose:** Used for highlighting brands, grouping same-category brands, or sponsored brands. Displayed in multiple rows.
+
+### Anatomy
+*   **Cell Aspect Ratio:** 1:1 (Square)
+*   **Cell Dimensions:** 225px (W) x 225px (H)
+*   **Background Colour:** Customizable based on brand (e.g., #FFEDE6).
+
+### Spacing Rules
+*   **Horizontal Padding:** 16px (Outer edges).
+*   **Vertical Padding:** 12px (Between Brand Header and Cells).
+*   **Internal Gutter:** 12px (Between individual cells).
+
+---
+
+## 4. Spotlight Guidelines
+**Purpose:** High-impact area supporting video or static images followed by a product carousel.
+
+### Anatomy
+*   **Total Widget Size:** 1080px (W) x 882px (H)
+*   **Media Container (Video/Image):**
+    *   Dimensions: 1080px (W) x 540px (H).
+    *   Aspect Ratio: **3:2**.
+    *   *Design Note:* Defined height ensures content isn't cut off from the bottom while scrolling.
+*   **SKU Gradient Overlay:**
+    *   Dimensions: 360px (W) x 160px (H).
+    *   Style: Linear Gradient (Top to Bottom), Color #000000, Opacity 0% to 100%.
+
+### Design Rules
+1.  **Logo Placement:** **Avoid** placing logos on the **Top Left** of the video/image (reserved for "View All" CTA).
+2.  **SKU Alignment:** SKUs are aligned to the left.
+3.  **Card Sizing:** The first card in the carousel is always displayed bigger than the subsequent cards.
+
+---
+
+## 5. General Banner Guidelines
+**Typography:** All banners utilize the **Rubik** font family.
+
+### A. Regular Templates
+**Structure:** Split layout.
+*   **Content (Left):** 55% width.
+*   **Imagery (Right):** 45% width.
+
+**Text Rules:**
+*   **Title:** Maximum of **2 lines**.
+*   **Supporting Text / Offer Callout:** Maximum of **2 lines**.
+
+**Required Elements (Template dependent):**
+*   Logo, Title, CTA Button.
+*   *Optional:* Special Text (e.g., "Hot Deals"), Offer Tag, Subtext.
+
+### B. Strip Templates
+**Structure:** Slim horizontal layout.
+**Constraints:**
+*   **Product Images:** Do not use more than **3 product images**.
+
+**Variations:**
+*   With Offer Callout (Right arrow CTA).
+*   "Powered By" Label.
+*   "Starts from ₹..." pricing callout.
+
+### C. Banner Sizes (Final Export)
+
+| Platform | Type | Dimensions (px) | Aspect Ratio |
+| :--- | :--- | :--- | :--- |
+| **App** | Regular | 1360 x 700 <br> 1360 x 800 | - |
+| **App** | Strip Banner | 1360 x 350 | - |
+| **Web** | Standard | 880 x 110 | 8 : 1 |
+| **Web** | Large | 1200 x 300 | 4 : 1 |

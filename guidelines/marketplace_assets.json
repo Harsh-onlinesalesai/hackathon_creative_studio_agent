@@ -1,0 +1,31 @@
+{
+  "BigBasket": [
+    {
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_petstore_250923_400.jpg",
+      "role": "Reference Marketplace Style Guide Ad",
+      "strength": 80
+    },
+    {
+      "url": "https://www.bigbasket.com/media/uploads/banner_images/hp_m_babycare_250923_400.jpg",
+      "role": "Reference Marketplace Style Guide Ad",
+      "strength": 80
+    }
+  ],
+  "Purplle": [
+    {
+      "url": "https://media6.ppl-media.com/tr:w-1280,c-at_max,pr-true,dpr-2/mediafiles/ecomm/misc/1765621903_honasa_2560x544-1.jpeg",
+      "role": "Reference Marketplace Style Guide Ad",
+      "strength": 80
+    },
+    {
+        "url": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1765626650_dot_and_key_900x1318-3.jpeg",
+        "role": "Reference Marketplace Style Guide Ad",
+        "strength": 80
+    },
+    {
+        "url": "https://media6.ppl-media.com/tr:dpr-2/mediafiles/ecomm/misc/1765516511_plum_1440x700.jpeg",
+        "role": "Reference Marketplace Style Guide Ad",
+        "strength": 80
+    }
+  ]
+}
